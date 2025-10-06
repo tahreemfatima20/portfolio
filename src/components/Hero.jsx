@@ -45,7 +45,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               ISTQB-Certified Software Quality Engineer <br className="sm:block hidden" />
-              with 3+ years of experience in ensuring high-quality software delivery.
+              with 4 years of experience in ensuring high-quality software delivery.
             </p>
           </div>
           <div
