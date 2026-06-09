@@ -36,7 +36,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Dedicated and results-driven ISTQB-certified Software Quality Engineer with over 3 years of hands-on
+        Dedicated and results-driven ISTQB-certified Software Quality Engineer with over 4 years of hands-on
         experience in ensuring the delivery of high-quality software products. Adept at implementing comprehensive testing
         strategies to identify and address defects, I bring a strong commitment to quality assurance and a proven track record
         of optimizing software development processes. Leveraging a solid foundation in test planning, execution, and automation
