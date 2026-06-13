@@ -108,8 +108,8 @@ const Experience = () => {
             }
           >
             <a
-              href="/Tahreem-Fatima.pdf"
-              download="Tahreem-Fatima.pdf"
+              href="/Tahreem_Fatima_SQA_Engineer.pdf"
+              download="Tahreem_Fatima_SQA_Engineer.pdf"
               className="live-demo flex justify-between 
     sm:text-[18px] text-[14px] text-timberWolf 
     font-bold font-beckman items-center py-5 pl-3 pr-3 
